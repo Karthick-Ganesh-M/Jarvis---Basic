@@ -69,8 +69,3 @@ python main.py
 ## 📄 License
 
 This project is open-source under the MIT License.
-
-## ✨ Credits
-
-Created by **[Your Name]**  
-Inspired by AI automation and J.A.R.V.I.S. from Iron Man.
